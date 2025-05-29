@@ -1,1 +1,3 @@
-# finch
+# finch-robot
+
+## The goals 
