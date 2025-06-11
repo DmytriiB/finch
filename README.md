@@ -15,3 +15,8 @@
 
 I wanted to create something similar to futuristic patrol security robots that have a flashlight on top and they are moving around the room forever.
 </details>
+
+---
+
+### Design Cycle
+<img src="design_cycle.png" alt="design cycle" width="300" height="300">
