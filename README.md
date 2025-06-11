@@ -9,3 +9,9 @@
   |     ✅    | Develop Code | Develop code in Java for what your robot will be doing |
 
 ---
+
+<details>
+<summary><strong>Inspiration for the Project</strong></summary>
+
+I wanted to create something similar to futuristic patrol security robots that have a flashlight on top and they are moving around the room forever.
+</details>
