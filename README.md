@@ -19,4 +19,5 @@ I wanted to create something similar to futuristic patrol security robots that h
 ---
 
 ### Design Cycle
-<img src="design_cycle.png" alt="design cycle" width="300" height="300">
+![EDPHub_Graphic](https://github.com/user-attachments/assets/075ca549-38a6-4b5f-ab30-fe88328d7bad)
+
