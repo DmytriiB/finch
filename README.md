@@ -19,5 +19,6 @@ I wanted to create something similar to futuristic patrol security robots that h
 ---
 
 ### Design Cycle
-![EDPHub_Graphic](https://github.com/user-attachments/assets/075ca549-38a6-4b5f-ab30-fe88328d7bad)
+![FullDesignProcess_635wTYPOFIXED](https://github.com/user-attachments/assets/831d4fc7-bd87-47d4-a97d-28ad73f424b8)
+
 
