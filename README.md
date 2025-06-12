@@ -38,4 +38,6 @@ During this project activity i used this design cycle when i was designing my fl
 - My motivation for building this project was that throught my whole life i watched many different futuristic movies and i remember seeing those kind of patrol security robots where they were patroling certain area and if they see you it would trigger and alarm system.
 - With some adjustments this could be a really good security robot where many important places could have them to prevent robery.
 - Throught this whole project i learned:
-- - How to better use and code a README file
+   - How to better use and code a README file
+   - How to design something in 3D sofware
+   - How to use finch robots and how to code them
