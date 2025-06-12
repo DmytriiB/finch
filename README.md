@@ -34,3 +34,5 @@ During this project activity i used this design cycle when i was designing my fl
 ```
 
 ---
+
+- My motivation for building this project was that i watched many different futuristic movies and i remember seeing those kind of patrol security robots where they were patroling certain area and if they see you it would trigger and alarm system.
