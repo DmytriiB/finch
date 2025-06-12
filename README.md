@@ -27,8 +27,8 @@ During this project activity i used this design cycle when i was designing my fl
 
 ### Code to Highlight
 ```java
- int left = myFinch.getLeftObstacleSensor();
-    int right = myFinch.getRightObstacleSensor();
+  int left = myFinch.getLeftObstacleSensor();
+  int right = myFinch.getRightObstacleSensor();
 
     if(left > 0 || right > 0){
 ```
